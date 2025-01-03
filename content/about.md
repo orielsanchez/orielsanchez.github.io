@@ -1,27 +1,13 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
+description = ""
+date = "2025-01-02"
 aliases = ["about", "contact"]
 author = "Oriel Sanchez"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I'm Oriel Sanchez, a Math-CS student at UC San Diego.
+I'm passionate about software engineering and have a particular interest in Rust and system-level programming.
+I’ve worked on optimizing software tools, developing custom solutions, and contributing to both academic and personal projects that push my coding skills further.
 
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
-
+Outside of tech, I enjoy running, hiking, jiu-jitsu, skateboarding, and chess. I'm always up for a challenge, whether it's in the form of code or outdoor adventures. You can learn more about my work on [LinkedIn](https://linkedin.com/in/orielsanchez) or [GitHub](https://github.com/orielsanchez).
